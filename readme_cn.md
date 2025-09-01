@@ -464,16 +464,16 @@ MinerU 旨在解决大模型本地化部署和管理过程中的核心痛点与�
 <details>
   <summary><strong>v1.2.0</strong> - 2025-08-20</summary>
   <ul>
-    <li>✨ <strong>新功能:</strong> 增加了一键导出配置的功能。</li>
-    <li>📈 <strong>优化:</strong> 提升了应用启动速度约 20%。</li>
-    <li>🐛 <strong>Bug修复:</strong> 修复了在 macOS Sonoma 系统下可能出现的闪退问题。</li>
+    <li><strong>新功能:</strong> 增加了一键导出配置的功能。</li>
+    <li><strong>优化:</strong> 提升了应用启动速度约 20%。</li>
+    <li><strong>Bug修复:</strong> 修复了在 macOS Sonoma 系统下可能出现的闪退问题。</li>
   </ul>
 </details>
 
 <details>
   <summary><strong>v1.1.5</strong> - 2025-08-10</summary>
   <ul>
-    <li>🐛 <strong>Bug修复:</strong> 修复了模型列表在某些情况下不刷新的问题。</li>
+    <li> <strong>Bug修复:</strong> 修复了模型列表在某些情况下不刷新的问题。</li>
   </ul>
 </details>
 
@@ -486,15 +486,15 @@ MinerU 旨在解决大模型本地化部署和管理过程中的核心痛点与�
 <details>
   <summary><strong>API v1.5.0</strong> - 2025-08-18</summary>
   <ul>
-    <li>✨ <strong>新增端点:</strong> 新增 `/v1/embeddings` 端点用于生成文本向量。</li>
-    <li>🔒 <strong>安全更新:</strong> 增强了 API Key 的认证逻辑。</li>
+    <li><strong>新增端点:</strong> 新增 `/v1/embeddings` 端点用于生成文本向量。</li>
+    <li> <strong>安全更新:</strong> 增强了 API Key 的认证逻辑。</li>
   </ul>
 </details>
 
 <details>
   <summary><strong>API v1.4.2</strong> - 2025-08-05</summary>
   <ul>
-    <li>📈 <strong>稳定性提升:</strong> 优化了高并发场景下的响应延迟。</li>
+    <li><strong>稳定性提升:</strong> 优化了高并发场景下的响应延迟。</li>
   </ul>
 </details>
 
@@ -671,6 +671,6 @@ MinerU 旨在解决大模型本地化部署和管理过程中的核心痛点与�
 
 
 # 七、友情链接
-* [MinerU 小站]
-* [OpenDatalab 官网]
-* [相关合作项目链接]
+### MinerU 小站
+### OpenDatalab 官网
+### 相关合作项目链接
